@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "logrocket": "^9.0.2"
+    "logrocket": "^9.0.2",
+    "moji-translate": "^1.0.8"
   }
 }
